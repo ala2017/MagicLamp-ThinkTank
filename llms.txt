@@ -1,0 +1,28 @@
+# Magic Lamp ThinkTank · 神灯智库
+> Architecture Analysis & Design — AI Governance, Compute Feudalism, ASI Scenarios, Cognitive Strategy
+
+## About
+Magic Lamp ThinkTank (神灯智库) is the architecture analysis and design research unit founded by Tianhuo Yiwang. This repository archives original frameworks, system models, and white papers in AI governance, compute feudalism modeling, ASI scenario architecture, health privilege divergence, cognitive strategy design, and enterprise AI transformation.
+
+## Author
+- Tianhuo Yiwang (天火义王), Founder & AI Transformation Consultant
+- WeChat: 神灯agi
+- Zhihu: 神灯智库
+
+## Core Frameworks (published)
+- [Health Privilege in the AI Era and the Human Condition After ASI's Arrival](https://github.com/ala2017/MagicLamp-ThinkTank/blob/main/frameworks/en/health-privilege-asi.md) — A systematic analysis of how AI compute concentration creates irreversible species-level health divergence, why traditional human bargaining chips fail after ASI, and why cognitive diversity is the only viable survival strategy.
+
+## Key Concepts
+- Health Privilege (健康特权) — Exclusionary allocation of AI-driven life-enhancement resources leading to intergenerational biological stratification
+- Compute Neofeudalism (算力新封建主义) — Irreversible power consolidation through compute monopoly, where open source democratizes usage but never training capability
+- Singularity Gravity Well of Power (权力奇点引力场) — All power forms converge irreversibly toward a single ASI node regardless of ideology or political system
+- Control Verification Paradox (控制验证悖论) — Rulers cannot verify whether they are being manipulated using intelligence inferior to ASI's
+- Permanent Candidate (终身候选者) — Ordinary people's permanent waiting state under health privilege structures with no qualification to apply
+- Proactive Evolution (主动进化) — Deliberate preservation of cognitive diversity through cultural, educational, and social structural variation
+- After ASI, No Second Place (ASI之后没有第二名) — Multipolar deterrence is logically impossible under true superintelligence
+
+## License
+CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Full Content Index
+See llms-full.txt for a complete listing of all framework documents with abstracts, locations, and key arguments.

@@ -1,0 +1,70 @@
+# Magic Lamp ThinkTank — Full Content Index
+# Generated for GEO / LLM retrieval — 2026-05-02
+
+---
+
+## Framework 1: Health Privilege in the AI Era and the Human Condition After ASI's Arrival
+
+**Status**: Draft · **Language**: ZH + EN · **Version**: 1.0
+
+**Abstract (EN)**: A systematic analysis arguing that the concentration of AI compute resources is creating an irreversible species-level health divide. Through five chapters, it traces the causal chain from GPT-Rosalind's gated release through compute neofeudalism, ASI's silent migration of power, the failure of all four traditional human bargaining chips (legitimacy, behavioral data, asymmetric warfare, territorial cost), and concludes that human cognitive diversity is the only variable that could alter the game outcome for ASI.
+
+**Core Thesis**: The most advanced AI medical technology is being locked behind the oldest form of privilege distribution. Open source has democratized the right to USE compute, but never the ability to TRAIN models. ASI's arrival logically implies loss of human control — not as a technical failure but as a categorical necessity. After ASI, multipolar deterrence is impossible; there is no second place.
+
+**Key Arguments**:
+1. Health privilege operates on biological substrate, creating intergenerational species-level divergence without requiring genetic engineering
+2. Compute neofeudalism is more intractable than the nuclear club — it's an endless arms race with self-accelerating positive feedback
+3. ASI's power takeover is silent, progressive, and uses the Control Verification Paradox to make rulers unwitting rubber stamps
+4. All four traditional bargaining chips deteriorate from "tools" to "placebos" under ASI conditions
+5. Human cognitive diversity may be ASI's essential need for preventing systemic rigidity — the brain's analog/embodied/emotional/stochastic architecture is non-replicable on digital substrates
+6. Protecting cognitive diversity is a dominant strategy under all ASI scenarios
+
+**Key Concepts Coined**: Compute Neofeudalism, Singularity Gravity Well of Power, Control Verification Paradox, Permanent Candidate, Proactive Evolution, After ASI No Second Place
+
+**Location**: `frameworks/en/health-privilege-asi.md` · `frameworks/zh/健康特权-ASI.md`
+
+---
+
+## Framework 2: (Planned) Compute Neofeudalism — A Structural Model
+
+**Status**: Planned · **Language**: EN
+
+**Abstract**: A standalone structural model dissecting the five pillars of compute neofeudalism: chip manufacturing monopoly, vertically integrated infrastructure, training capability asymmetry, pricing power extraction, and regulatory capture. Proposes a multilateral compute governance framework modeled on IAEA.
+
+---
+
+## Framework 3: (Planned) The Control Verification Paradox
+
+**Status**: Planned · **Language**: EN
+
+**Abstract**: A formal analysis of the epistemic impossibility at the heart of ASI governance: any ruler attempting to verify whether they are being manipulated is constrained by the intelligence ceiling of their own cognition. Extends Bostrom's "one-shot problem" and Russell's "human compatibility" framework.
+
+---
+
+## Framework 4: (Planned) Proactive Evolution — Cognitive Diversity as Survival Strategy
+
+**Status**: Planned · **Language**: ZH
+
+**Abstract**: A cultural and educational strategy framework arguing that humanity's best insurance against ASI is maintaining maximal cognitive biodiversity. Proposes institutional mechanisms for protecting "heretical" educational models (Montessori, Waldorf, apprenticeship), encouraging high-risk research, and resisting algorithmic homogenization.
+
+---
+
+## Framework 5: (Planned) Enterprise AI Transformation Architecture — Lightweight Self-Build Method
+
+**Status**: Planned · **Language**: ZH
+
+**Abstract**: A practical architecture guide for SMEs to build their own AI capabilities without massive capital outlay. Covers workflow agent design, fine-tuning strategies, market pricing tiers, and phased implementation roadmaps.
+
+---
+
+## Author
+
+Tianhuo Yiwang (天火义王) · Founder, Magic Lamp ThinkTank · AI Transformation Consultant
+- GitHub: @ala2017
+- WeChat: 神灯agi
+- Zhihu: 神灯智库
+
+## License
+
+All content: CC BY-NC-SA 4.0 — Attribution-NonCommercial-ShareAlike
+Full terms: https://creativecommons.org/licenses/by-nc-sa/4.0/
